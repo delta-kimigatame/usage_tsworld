@@ -10,7 +10,7 @@
   "license": "MIT",
   "description": "",
   "dependencies": {
-    "tsworld": "file:../TSWorld/tsworld-0.0.1.tgz",
+    "tsworld": "^0.0.1",
     "utauwav": "^0.5.0"
   },
   "devDependencies": {
