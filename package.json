@@ -9,10 +9,6 @@
   "author": "delta_kimigatame",
   "license": "MIT",
   "description": "",
-  "dependencies": {
-    "tsworld": "^0.0.1",
-    "utauwav": "^0.5.0"
-  },
   "devDependencies": {
     "file-loader": "^6.2.0",
     "ts-loader": "^9.5.2",
@@ -20,5 +16,9 @@
     "webpack": "^5.97.1",
     "webpack-cli": "^6.0.1",
     "webpack-dev-server": "^5.2.0"
+  },
+  "dependencies": {
+    "tsworld": "^0.0.4",
+    "utauwav": "^0.6.0"
   }
 }
